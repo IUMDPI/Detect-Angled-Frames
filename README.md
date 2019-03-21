@@ -1,5 +1,5 @@
-# Detect-Frame-Angle
-A command line utility (and library) which will determine whether a 16mm frame has been digitized at an angle
+# Detect-Angled-Frames
+A command line utility (and library) which will determine whether a 16mm film frame has been digitized at an angle by detecting the edges of the film perforations.
 
 ```
 usage: detect_angled_frames.py [-h] [--threads THREADS] [--min MIN]
