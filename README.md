@@ -21,3 +21,8 @@ optional arguments:
   --perf_line_pct PERF_LINE_PCT
                         Percentage from top and bottom for perf location
 ```
+
+The tool can generate images with alignment marks on them, as well as angle and filename information:
+
+![alt text](https://github.com/IUMDPI/Detect-Frame-Angle/raw/master/MDPI_40000003391424_01_mezzRaw_VidiCert.jpg.png "Sample output")
+
